@@ -1,0 +1,7 @@
+print("hello Python")
+print("ชื่อ-นามสกุล")
+print("ชื่อเล่น")
+print("อายุ")
+print("เลขที่")
+print("รหัสนักศึกษา")
+print("งานอดิเรก")
